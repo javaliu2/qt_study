@@ -9,7 +9,7 @@
             "program": "${command:cmake.launchTargetPath}",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceRoot}",
+            "cwd": "${workspaceRoot}/build/",
             "environment": [
                 {
                     "name": "PATH",
@@ -18,7 +18,7 @@
             ],
             "externalConsole": false,
             "miDebuggerPath": "c:/Qt/Tools/mingw1310_64/bin/gdb.exe",
-            "visualizerFile": "c:\\Users\\23590\\AppData\\Roaming\\Code\\User\\workspaceStorage\\99f6ccd492b4859ffb04dc81bfa09b1c\\tonka3000.qtvsctools\\qt.natvis.xml"
+            "visualizerFile": "c:\\Users\\23590\\AppData\\Roaming\\Code\\User\\workspaceStorage\\c8b718bc15b1c94319f8d135f87ae61f\\tonka3000.qtvsctools\\qt.natvis.xml"
         }
     ]
 }
