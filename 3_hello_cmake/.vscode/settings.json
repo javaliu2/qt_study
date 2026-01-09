@@ -1,5 +1,6 @@
 {
     "C_Cpp.default.includePath": [
         "C:\\Users\\23590\\Documents\\qt_study\\3_hello_cmake\\include"
-    ]
+    ],
+    "cmake.sourceDirectory": "C:/Users/23590/Documents/qt_study/3_hello_cmake/1_cmake_basic"
 }
